@@ -13,8 +13,8 @@ Below are the locations of the main components of our project:
 (1) Data pre-processing 			  	./Code/pre_process_and_ratings/pre-processing/
 (2) Data visualization + model Demo application 	./Code/demo_similar_reccomend/app.py
 (3) Rating prediction from reviews			./Code/pre_process_and_ratings/
-(4) Finding similar movies from plots			./Code/demo_similar_reccomend/improved_clustering.py
+(4) Finding similar movies from plots		./Code/demo_similar_reccomend/improved_clustering.py
 (5) Predicting movie genre				./Code/Genre Classification/
-(6) Movie Recommendation System				./Code/demo_similar_reccomend/movie_reccomendation.py
+(6) Movie Recommendation System			./Code/demo_similar_reccomend/movie_reccomendation.py
 
 More details about the project can be found in our report: ./Report/Report.pdf
