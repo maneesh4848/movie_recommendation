@@ -1,6 +1,7 @@
 Requirements: Python, NLTK, NLTK stopwords corpus, scikit-learn
 
-Sample Data can be found at: https://drive.google.com/open?id=0BwGvz7p3JWOcVjhNdVdsUW9QTHc
+Sample Data can be found at: https://drive.google.com/open?id=0BwGvz7p3JWOcMmZyWmtTWXhaLTQ
+Note that file paths might need to be changed.
 
 The three main directories are:
 (1) Code/pre_process_and_ratings/
